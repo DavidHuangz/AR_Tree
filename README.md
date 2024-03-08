@@ -1,6 +1,7 @@
 # AR_TREE
-
 [Visit the app through Playstore](https://play.google.com/store/apps/details?id=com.BunBun.AppleAR)
+
+![image](https://github.com/DavidHuangz/AR_TREE/assets/52488862/7e3e974c-c2ca-43c6-bfcf-566bda1f2079)
 
 This repository is for a Part IV Computer Systems Engineering Research Project developed at the Univeristy of Auckland.
 
